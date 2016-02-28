@@ -11,6 +11,7 @@ Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'rking/ag.vim'
 Plugin 'skwp/greplace.vim'
 Plugin 'tpope/vim-surround'
+Plugin 'scrooloose/nerdcommenter'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
